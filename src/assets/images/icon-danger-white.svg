@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bt_alert/white</title>
+    <g id="bt_alert/white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9" transform="translate(1.000000, 1.000000)">
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="12.5" cy="12.5" r="12.5"></circle>
+            <path d="M12.554768,6 C11.6696864,6 11,6.4618944 11,7.2079584 L11,14.0509248 C11,14.7977664 11.6696,15.2581056 12.554768,15.2581056 C13.4182496,15.2581056 14.109536,14.7784992 14.109536,14.0509248 L14.109536,7.2079584 C14.1094496,6.4796064 13.4182496,6 12.554768,6 Z M12.554768,16.7997408 C11.7044192,16.7997408 11.0123552,17.4918048 11.0123552,18.3428448 C11.0123552,19.192416 11.7044192,19.88448 12.554768,19.88448 C13.4051168,19.88448 14.0964032,19.192416 14.0964032,18.3428448 C14.0963168,17.4917184 13.4051168,16.7997408 12.554768,16.7997408 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

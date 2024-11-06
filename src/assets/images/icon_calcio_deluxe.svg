@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>01.Basics/02.Icon/Virtual/Calcio_deluxe@1,5x</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.200000 0 0 0 0 0.200000 0 0 0 0 0.200000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.200000 0 0 0 0 0.200000 0 0 0 0 0.200000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01.Basics/02.Icon/Virtual/Calcio_deluxe" >
+            <g>
+                <rect id="Rectangle-Copy" fill="#FFFFFF" opacity="0" x="0" y="0" width="28" height="28"></rect>
+                <g filter="url(#filter-2)">
+                    <g transform="translate(1.000000, 1.000000)">
+                        <polygon id="Path" fill="#222222" fill-rule="nonzero" points="13.56 25.47 13.63 25.47 13.37 25.53"></polygon>
+                        <path d="M14.2109235,15.9761653 C14.2109235,15.9761653 16.9465756,6.56806144 8.81195628,1 C8.81195628,1 11.9092931,6.67399364 10.2981519,12.0368114 C9.93646711,13.2285487 8.09516282,5.21742585 0,14.8373941 C0,14.8373941 8.86456497,11.4541843 8.92374975,15.4465042 C8.98293453,19.4388242 15.9864669,21.6567797 17.1635865,21.7693326 C18.340706,21.8818856 14.7567387,25.6159958 13.1521735,26 C14.4673909,25.6755826 22.4047276,23.6032839 21.9838581,19.9088983 C21.4972277,15.5855403 14.2109235,15.9761653 14.2109235,15.9761653 Z" id="Path" fill="#222222" fill-rule="nonzero"></path>
+                        <path d="M23.5,14 C22.1192881,14 21,15.1192881 21,16.5 C21,17.8807119 22.1192881,19 23.5,19 C24.8807119,19 26,17.8807119 26,16.5 C26,15.1192881 24.8807119,14 23.5,14 Z" id="Path" fill="#222222" fill-rule="nonzero"></path>
+                        <path d="M16.5,3 C17.3284296,3 18,2.32842712 18,1.5 C18,0.671572875 17.3284296,0 16.5,0 C15.6715815,0 15,0.671572875 15,1.5 L15,1.5 C14.9984772,1.89729329 15.1552266,2.27884054 15.4356146,2.56031218 C15.7160026,2.84178383 16.0969416,3 16.4942364,3 L16.5,3 Z" id="Path" fill="#222222" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

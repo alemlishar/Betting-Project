@@ -1,0 +1,36 @@
+{
+  "type": "ticketInfoSportAccumulatorResponseDTO",
+  "accountingDate": "2020-01-12",
+  "agentId": 4000,
+  "paymentAmount": 561.67,
+  "sellingAmount": 15,
+  "sellingDate": "2020-04-08 18:56:00",
+  "sportCode": "SPORT",
+  "sportId": 1,
+  "status": "OPEN",
+  "ticketId": "DF07E4010C0E8CF3B504",
+  "ticketType": "ACCUMULATOR",
+  "winningStatus": "LOOK_AT_STATUS",
+  "bonus": {},
+  "balance": { "amount": 20 },
+  "gameType": "SPORT",
+  "events": [
+    {
+      "eventDescription": "Tottenham - Liverpool",
+      "eventId": 260,
+      "status": "OPEN",
+      "isReported": false,
+      "eventTimestamp": "2020-03-11T18:30",
+      "marketDescription": "Esito Finale 1x2",
+      "marketId": 19317,
+      "outcomeDescription": "1",
+      "outcomeId": 3,
+      "outcomeValue": 2.56,
+      "scheduleId": 30021,
+      "addedInfo": 327681,
+      "addedInfoDescription": "DC OUT + MULTIGOAL 1 - 5",
+      "competitionDescription": "Premier League",
+      "tournamentId": 86
+    }
+  ]
+}

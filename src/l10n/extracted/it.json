@@ -1,0 +1,1590 @@
+{
+  "+3Iy/3": {
+    "defaultMessage": "L'importo della scommessa è inferiore alla giocata minima (€2)",
+    "description": "error message min bet multipla"
+  },
+  "+QKWY/": {
+    "defaultMessage": "Marrone",
+    "description": "VirtualTemplateRace: marble runner 7"
+  },
+  "+aFJGl": {
+    "defaultMessage": "Codice Fiscale",
+    "description": "Label of fiscal code input"
+  },
+  "+vLo1k": {
+    "defaultMessage": "Procedi",
+    "description": "procedi button introduzione disanonimazione"
+  },
+  "/Cfl6x": {
+    "defaultMessage": "Scommessa non valutata.",
+    "description": "timeout heading in modulo gestione multibiglietto"
+  },
+  "/EYJNp": {
+    "defaultMessage": "Cognome",
+    "description": "label of surname input in foreign customer info step"
+  },
+  "/I/2Pl": {
+    "defaultMessage": "{textmessage}",
+    "description": "Label alert esiti non in palinsesto modulo gestione prenotazione"
+  },
+  "/THWib": {
+    "defaultMessage": "biglietto",
+    "description": "messaggio header biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "/WWmjh": {
+    "defaultMessage": "VINC/PIAZ",
+    "description": "VirtualTemplateRace: title template virtual race VINC/PIAZ"
+  },
+  "/jZgHP": {
+    "defaultMessage": "Assicurati che il cliente sia in possesso dei seguenti documenti",
+    "description": "Introduzione soglia alert info documenti dialog-disanonimazione"
+  },
+  "077C1l": {
+    "defaultMessage": "Quota Maggiorata",
+    "description": "descrizione che indica che la monoquota ha una quota maggiorata"
+  },
+  "0vzDSP": {
+    "defaultMessage": "Terminale di gioco",
+    "description": "Authentication: title"
+  },
+  "0wP6cE": {
+    "defaultMessage": "Servizio momentaneamente non disponibile",
+    "description": "error code 404 ticket"
+  },
+  "1EXS9A": {
+    "defaultMessage": "Hai superato il tuo massimale di vendita pari a {amount} per singolo biglietto. Contatta il tuo responsabile.",
+    "description": "error message max user bet"
+  },
+  "1J9IU9": {
+    "defaultMessage": "Procedi",
+    "description": "label button procede delete booking"
+  },
+  "1TzLpM": {
+    "defaultMessage": "Ricevuta della giocata",
+    "description": "introduzione detailsInfo ricevuta della giocata dialog-disanonimazione"
+  },
+  "1lsmsS": {
+    "defaultMessage": "Costo totale",
+    "description": "costo totale header biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "1q3COX": {
+    "defaultMessage": "Borderò",
+    "description": "Bordero header title"
+  },
+  "28WKCn": {
+    "defaultMessage": "Da {oldpuntata} a <b>{newPuntata}</b>",
+    "description": "old amount label of amounts changed acceptance alert"
+  },
+  "2E6CDB": {
+    "defaultMessage": "Elimina esiti chiusi/sospesi ({closedsuspendedoutcomelist})",
+    "description": "button elimina esiti chiusi/sospesi subheader biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "2ehSVL": {
+    "defaultMessage": "L'importo inserito non è multiplo dell'unità base (0,05€)",
+    "description": "error message importo base sistema"
+  },
+  "2juzdR": {
+    "defaultMessage": "Riprova",
+    "description": "riprova button of timeout acceptance alert"
+  },
+  "2tznZj": {
+    "defaultMessage": "Dati non disponibili",
+    "description": "dati non disponibili dialog prenotazione body"
+  },
+  "30Nru3": {
+    "defaultMessage": "Sesso",
+    "description": "label of gender input in customer info step"
+  },
+  "3COXJ+": {
+    "defaultMessage": "Gialla",
+    "description": "VirtualTemplateRace: marble runner 4"
+  },
+  "3Qn7Ad": {
+    "defaultMessage": "La scommessa può essere convalidata per un importo di {newamount}",
+    "description": "description of amounts changed acceptance alert"
+  },
+  "3RkwRd": {
+    "defaultMessage": "Seleziona...",
+    "description": "default city value"
+  },
+  "3XXn8h": {
+    "defaultMessage": "Hai superato il tuo massimale di vendita pari a {value} per singolo biglietto. Contatta il tuo responsabile.",
+    "description": "Error limite massimale operatore'"
+  },
+  "3Xpyic": {
+    "defaultMessage": "P3",
+    "description": "VirtualTemplateRace: subtitle template virtual biglie p3"
+  },
+  "3Y63pC": {
+    "defaultMessage": "Numero",
+    "description": "Boxes of bordero amounts"
+  },
+  "3eBEMO": {
+    "defaultMessage": "Cerca...",
+    "description": "placeholder of province input in residence step "
+  },
+  "3kM41a": {
+    "defaultMessage": "+",
+    "description": "Sistema footer button label 'apri sviluppo'"
+  },
+  "3l35Rq": {
+    "defaultMessage": "Saldo cassa aggiornato",
+    "description": "saldo-cassa: Saldo cassa aggiornato"
+  },
+  "3tcPx6": {
+    "defaultMessage": "Salva impostazioni",
+    "description": "label salvataggio opzioni carrello"
+  },
+  "4TwhjQ": {
+    "defaultMessage": "IMPOSTAZIONI DI PUNTATA",
+    "description": "label impostazioni di puntata carrello"
+  },
+  "4cziC+": {
+    "defaultMessage": "Nome",
+    "description": "label of name input in foreign customer info step"
+  },
+  "4oCshO": {
+    "defaultMessage": "A",
+    "description": "VirtualTemplateBiglie: title template virtual biglie A"
+  },
+  "4rehRp": {
+    "defaultMessage": "La scommessa è andata a buon fine",
+    "description": "success sell header of sell toast"
+  },
+  "4xTNcs": {
+    "defaultMessage": "B",
+    "description": "VirtualTemplateBiglie: title template virtual biglie B"
+  },
+  "4xm3/G": {
+    "defaultMessage": "Importo minimo non rispettato per la giocata sistemica (€2,00)",
+    "description": "error message min bet sviluppo sistema"
+  },
+  "5COSEH": {
+    "defaultMessage": "Top Live",
+    "description": "Label del tab 'top live' nella home page"
+  },
+  "5EJELF": {
+    "defaultMessage": "Scad. {expirydate}",
+    "description": "Expiry date label and value of document in document registration list"
+  },
+  "5ExaDq": {
+    "defaultMessage": "Proposta nuova puntata",
+    "description": "header title of amounts changed acceptance alert"
+  },
+  "5FJgz/": {
+    "defaultMessage": "I nostri quotisti stanno valutando la tua scommessa, attendi l’esito per poter effettuare nuove operazioni",
+    "description": "description prenotazione of acceptance alert"
+  },
+  "5T06fC": {
+    "defaultMessage": "Avanti",
+    "description": "avanti button in personal data step"
+  },
+  "60sI+T": {
+    "defaultMessage": "Importo da riscuotere pari a {amount}",
+    "description": "success sell description of sell toast"
+  },
+  "6BYNlK": {
+    "defaultMessage": "Provincia",
+    "description": "provincia label in residence data step in disanonima "
+  },
+  "6HMwbN": {
+    "defaultMessage": "Comune di nascita",
+    "description": "label of birthplace input in customer info step"
+  },
+  "6LW5iS": {
+    "defaultMessage": "Nessun importo da riscuotere",
+    "description": "Description of bet unsuccessful of rejected amount changed alert"
+  },
+  "6Ol+02": {
+    "defaultMessage": "Buono gioco",
+    "description": "Multipla footer button label 'buono gioco'"
+  },
+  "6TfGuk": {
+    "defaultMessage": "Non accetto variazioni di quote",
+    "description": "label no variazione quota"
+  },
+  "6w8M3Y": {
+    "defaultMessage": "Inserisci cognome",
+    "description": "placeholder of surname input in foreign customer info step "
+  },
+  "70+hHG": {
+    "defaultMessage": "Elimina {counter}",
+    "description": "Elimina Prenotazione button list "
+  },
+  "72yAJe": {
+    "defaultMessage": "D",
+    "description": "VirtualTemplateBiglie: subtitle template virtual biglie p4"
+  },
+  "7Bu5OJ": {
+    "defaultMessage": "Dati biglietto non disponibili",
+    "description": "error code 101 ticket"
+  },
+  "7DkLgA": {
+    "defaultMessage": "x{combinazioni}",
+    "description": "combinazioni per legatura"
+  },
+  "7MBPsz": {
+    "defaultMessage": "Numero combinazioni minime (2) non rispettate per la giocata sistemistica",
+    "description": "error message combinazioni minime sistema"
+  },
+  "7aFC+m": {
+    "defaultMessage": "Accedi al Terminale",
+    "description": "text button login"
+  },
+  "7e4Ff5": {
+    "defaultMessage": "Codice Fiscale",
+    "description": "Title of fiscal code step in disanonima"
+  },
+  "7mQCA+": {
+    "defaultMessage": "Vendi",
+    "description": "CTA Modifica modulo gestione prenotazione Header"
+  },
+  "7tBorg": {
+    "defaultMessage": "Indirizzo",
+    "description": "address label in residence data step in disanonima "
+  },
+  "7vboPo": {
+    "defaultMessage": "Vendi",
+    "description": "Sistema footer button label 'vendi'"
+  },
+  "7zvLEz": {
+    "defaultMessage": "Stato",
+    "description": "state header title in document registration step"
+  },
+  "82bufo": {
+    "defaultMessage": "A causa dell'intenso traffico non siamo riusciti a prendere in carico la richiesta. Riprova ad effettuare la vendita",
+    "description": "accettazione in timeout description of booking message"
+  },
+  "8IigZq": {
+    "defaultMessage": "Quote variate, accetti le variazioni?",
+    "description": "warning quote variate"
+  },
+  "8K0auv": {
+    "defaultMessage": "Elimina",
+    "description": "button elimina subheader biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "8TFs6Q": {
+    "defaultMessage": "Codice incompleto, inserire 11 caratteri",
+    "description": "prenotazioni search codice incompleto con numero caratteri"
+  },
+  "8e1nCf": {
+    "defaultMessage": "Chiudi sviluppo sistema",
+    "description": "Sistema footer button label 'chiudi sviluppo sistema'"
+  },
+  "8lUWsG": {
+    "defaultMessage": "L'importo di puntata supera la soglia antiriciclaggio.",
+    "description": "error message bet antiriciclaggio"
+  },
+  "8qbmIl": {
+    "defaultMessage": "Prenotazione:",
+    "description": " Prenotazione label minimizzata"
+  },
+  "9/tZtJ": {
+    "defaultMessage": "App e Web",
+    "description": "App and web label of filter tab in booking list"
+  },
+  "92o7lv": {
+    "defaultMessage": "\"{code}\" {message}",
+    "description": "pay ticket error alert no properties"
+  },
+  "9EgDq5": {
+    "defaultMessage": "Vendi {counter}",
+    "description": "Vendi Prenotazione button list "
+  },
+  "9MUgGw": {
+    "defaultMessage": "Confermo che il cliente è straniero e mi assumo la responsabilità normativa che il cliente non è cittadino italiano e non gli è stato attribuito un codice fiscale.",
+    "description": "description of checkbox in foreign fiscal code"
+  },
+  "9g0h72": {
+    "defaultMessage": "A",
+    "description": "VirtualTemplateBiglie: subtitle template virtual biglie vincente"
+  },
+  "9xQTUM": {
+    "defaultMessage": "Annulla",
+    "description": "prev button in add document info step"
+  },
+  "A0Tp1v": {
+    "defaultMessage": "VINC/PIAZ",
+    "description": "VirtualTemplateBiglie: title template virtual biglie VINC/PIAZ"
+  },
+  "A4ilzv": {
+    "defaultMessage": "Dettaglio sistema",
+    "description": "dettaglio sistema dialog prenotazione body"
+  },
+  "A7+ysa": {
+    "defaultMessage": "Importo biglietti<b> venduti</b>",
+    "description": "Importo biglietti venduti header biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "AGC/Lc": {
+    "defaultMessage": "Documento",
+    "description": "document header title in document registration step"
+  },
+  "APu4rn": {
+    "defaultMessage": "Servizio non disponibile",
+    "description": "generic pay ticket error alert"
+  },
+  "AmAm39": {
+    "defaultMessage": "Doppia Chance",
+    "description": "virtaul calcio singolo doppia chance header"
+  },
+  "AmtGf0": {
+    "defaultMessage": "Emetti un nuovo Voucher o Pagane uno emesso da sala",
+    "description": "Header Dialog Voucher text'"
+  },
+  "AsLU4B": {
+    "defaultMessage": "La scommessa può essere convalidata per un importo di € {newamount}",
+    "description": "description of amounts changed acceptance alert"
+  },
+  "AweHMW": {
+    "defaultMessage": "Accetta",
+    "description": "accetta button of amounts changed acceptance alert"
+  },
+  "B1L8H2": {
+    "defaultMessage": "Annulla",
+    "description": "label button annull delete booking"
+  },
+  "B5orSp": {
+    "defaultMessage": "Scommessa non valutata",
+    "description": "accettazione timeout header title of prenotazione alert"
+  },
+  "BFIVAV": {
+    "defaultMessage": "Puntata",
+    "description": "Sistema footer button label 'puntata'"
+  },
+  "BraQoD": {
+    "defaultMessage": "Servizio non raggiungibile",
+    "description": "404 descriprion"
+  },
+  "BtcQES": {
+    "defaultMessage": "Vincita Potenziale",
+    "description": "vincita potenziale footer modulo gestione prenotazione multibiglietto"
+  },
+  "C/F+o9": {
+    "defaultMessage": "V",
+    "description": "VirtualTemplateRace: subtitle template virtual race vincente"
+  },
+  "C61vF8": {
+    "defaultMessage": "Vendita del biglietto non riuscita",
+    "description": "default header title of sell alert"
+  },
+  "C7gF3w": {
+    "defaultMessage": "Chiudi",
+    "description": "label close of altre_classi_esito_box in schedaManifestazione"
+  },
+  "CCnBVN": {
+    "defaultMessage": "Patente",
+    "description": "Driving license description in disanonima dialog"
+  },
+  "CFXVth": {
+    "defaultMessage": "Inserisci l'indirizzo",
+    "description": "placeholder of address input in residence step "
+  },
+  "CLqAAp": {
+    "defaultMessage": "Chiudi",
+    "description": "close button of rejected acceptance alert"
+  },
+  "CNXBPH": {
+    "defaultMessage": "Codice non corretto",
+    "description": "prenotazioni search codice non corretto"
+  },
+  "CRXxoE": {
+    "defaultMessage": "Quota totale",
+    "description": "Quota totale footer  biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "Cawu0R": {
+    "defaultMessage": "Precompilata non più esistente",
+    "description": "toast heading precompilata scaduta"
+  },
+  "D7RDlN": {
+    "defaultMessage": "Attendi l’esito per poter effettuare nuove operazioni",
+    "description": "Submessage Vendita prenotazione in corso Label Alert"
+  },
+  "D9flL8": {
+    "defaultMessage": "Scommessa non valutata",
+    "description": "accettazione in timeout header title of sell alert"
+  },
+  "DNbp8d": {
+    "defaultMessage": "Importo",
+    "description": "description of amount of booking in bookings list"
+  },
+  "DOLYej": {
+    "defaultMessage": "Indirizzo di residenza",
+    "description": "Title of residence data step in disanonima"
+  },
+  "DTMzgD": {
+    "defaultMessage": "{genderoption}",
+    "description": "second option of  gender select"
+  },
+  "DzTqwA": {
+    "defaultMessage": "Giornata",
+    "description": "MenuVirtual: title description type campionato"
+  },
+  "E+WiJH": {
+    "defaultMessage": "Data non valida",
+    "description": "label errore invalid documento scaduto in aggiungi documento"
+  },
+  "E13E7y": {
+    "defaultMessage": "Introduzione",
+    "description": "Title Introduzione of DisanonimaDialog"
+  },
+  "E8aR4r": {
+    "defaultMessage": "Vendita scommessa andata a buon fine. Importo da riscuotere pari a <bold>{importo}</bold>",
+    "description": "Vendita andata a buon fine biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "EPp7sH": {
+    "defaultMessage": "Top Manifestazioni",
+    "description": "label Top Manifestazioni of MenuPrematch"
+  },
+  "EX85ni": {
+    "defaultMessage": "P2",
+    "description": "VirtualTemplateRace: subtitle template virtual race p2"
+  },
+  "Ek/k2K": {
+    "defaultMessage": "Nome",
+    "description": "label of name input in customer info step"
+  },
+  "FOSEmK": {
+    "defaultMessage": "L'importo della scommessa è superiore al limite consentito (€20,00)",
+    "description": "error message max bet legatura"
+  },
+  "FRBmN9": {
+    "defaultMessage": "Arancione",
+    "description": "VirtualTemplateRace: marble runner 5"
+  },
+  "FqsWL8": {
+    "defaultMessage": "Costo Totale",
+    "description": "Total cost description in system development"
+  },
+  "Fw/4hv": {
+    "defaultMessage": "Combinazioni<br></br><b>totali</b>",
+    "description": "combinazioni totali"
+  },
+  "G3dLtd": {
+    "defaultMessage": "Vincita potenziale massima",
+    "description": "Sistema footer button label 'vincita potenziale massima'"
+  },
+  "GHRvST": {
+    "defaultMessage": "La vincita potenziale è superiore al limite consentito (€10.000,00). Modifica il pronostico o la puntata",
+    "description": "error message max win multipla"
+  },
+  "GMiwCN": {
+    "defaultMessage": "Salva questa scelta come la tua impostazione di scommessa predefinita",
+    "description": "Save checkbox label"
+  },
+  "GO9dWr": {
+    "defaultMessage": "Data di rilascio",
+    "description": "label of data di rilascio input in add document info step"
+  },
+  "GkLYf+": {
+    "defaultMessage": "Servizio non disponibile",
+    "description": "404 error response"
+  },
+  "H+1Rbi": {
+    "defaultMessage": "Salvataggio impostazioni andato a buon fine",
+    "description": "ok save settings"
+  },
+  "HCrN90": {
+    "defaultMessage": "Esito Chiuso",
+    "description": "Esito Chiuso Avvenimenti Carrello"
+  },
+  "Hj0XNk": {
+    "defaultMessage": "In corso di validità",
+    "description": "Valid label of document in document registration list"
+  },
+  "HoYPdB": {
+    "defaultMessage": "Italiana",
+    "description": "first option of nationality select"
+  },
+  "I2o34Y": {
+    "defaultMessage": "Annulla",
+    "description": "button annulla header biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "ILWUhI": {
+    "defaultMessage": "Hai superato il tuo massimale di vendita pari a {amount} per singolo biglietto. Contatta il tuo responsabile.",
+    "description": "error message max user bet multipla"
+  },
+  "ISRBWu": {
+    "defaultMessage": "Discord",
+    "description": "VirtualTemplateRace: subtitle template virtual race trio non in ordine"
+  },
+  "IUWJUC": {
+    "defaultMessage": "Terminale",
+    "description": "Second tab text"
+  },
+  "IWZ+HE": {
+    "defaultMessage": "Cognome",
+    "description": "label of surname input in customer info step"
+  },
+  "Ig5XhC": {
+    "defaultMessage": "Salvataggio impostazioni non andato a buon fine",
+    "description": "ko save settings"
+  },
+  "IwHq9k": {
+    "defaultMessage": "Inserisci",
+    "description": "Emetti Voucher text"
+  },
+  "J0lACj": {
+    "defaultMessage": "Nazionalità <br></br> cliente",
+    "description": "Label of nationality input"
+  },
+  "J6r6iD": {
+    "defaultMessage": "CTRL invio",
+    "description": "Multipla footer button label shortcut in 'vendi'"
+  },
+  "JB3lMD": {
+    "defaultMessage": "Hai superato il numero massimo di combinazioni inseribili nel carrello",
+    "description": "accoppiata trio error alert description"
+  },
+  "JIOJ23": {
+    "defaultMessage": "In Evidenza",
+    "description": "Heading sezione In Evidenza"
+  },
+  "JJShfu": {
+    "defaultMessage": "Importo da erogare pari a {amount}",
+    "description": "default desctiption of payment toast"
+  },
+  "JXvYfV": {
+    "defaultMessage": "Esito Chiuso",
+    "description": "esito chiuso dialog prenotazione body"
+  },
+  "JdLuxy": {
+    "defaultMessage": "Si è verificato un errore nel recupero dei dati biglietto",
+    "description": "error code 100 ticket"
+  },
+  "JjO+qD": {
+    "defaultMessage": "Provincia non trovata",
+    "description": "label errore provincia in residence step"
+  },
+  "JutMq/": {
+    "defaultMessage": "Alcuni esiti non sono più in palinsesto. Per giocare il sistema riportalo nel carrello",
+    "description": "Label alert esiti non in palinsesto sistema modulo gestione prenotazione"
+  },
+  "Jwh36s": {
+    "defaultMessage": "{placeholder}",
+    "description": "alert failed {placeholder}"
+  },
+  "JzVZLh": {
+    "defaultMessage": "Provenienza",
+    "description": "Provenance label in booking list"
+  },
+  "K65WSt": {
+    "defaultMessage": "Attendi l’esito per poter effettuare nuove operazioni",
+    "description": "Submessage Vendita prenotazione in corso Label Alert "
+  },
+  "K7U/Cw": {
+    "defaultMessage": "Carta d'Identità",
+    "description": "Identity card description in disanonima dialog"
+  },
+  "KnpMXs": {
+    "defaultMessage": "Codice non corretto",
+    "description": "codice fiscale non corretto"
+  },
+  "Kqf+5l": {
+    "defaultMessage": "Bonus multipla",
+    "description": "Multipla footer label 'bonus multipla'"
+  },
+  "Kuu008": {
+    "defaultMessage": "(Ticket prescritto/inesistente)",
+    "description": "error code 101 ticket"
+  },
+  "L/NGsu": {
+    "defaultMessage": "I nostri quotisti non hanno accettato la giocata",
+    "description": "accettazione rifiutata description title of prenotazione alert"
+  },
+  "L8vs4/": {
+    "defaultMessage": "Attenzione!",
+    "description": "alert heading attention add to virtual cart"
+  },
+  "LRe7Lm": {
+    "defaultMessage": "Puntata",
+    "description": "Puntata footer sistema  biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "LVBDDW": {
+    "defaultMessage": "Impossibile annullare il biglietto, il tuo saldo cassa non coprirebbe l'importo della scommessa. Devi effettuare una sovvenzione per procedere.",
+    "description": "alert description annullo biglietto errore saldo cassa insufficiente"
+  },
+  "LctWCa": {
+    "defaultMessage": "Rosa",
+    "description": "VirtualTemplateRace: marble runner 6"
+  },
+  "LdcEoM": {
+    "defaultMessage": "Operatore",
+    "description": "First tab text"
+  },
+  "LdtAXX": {
+    "defaultMessage": "I nostri quotisti stanno valutando la tua scommessa, attendi l’esito per poter effettuare nuove operazioni",
+    "description": "Submessage Vendita prenotazione in accettazione Label Alert "
+  },
+  "LiCYZc": {
+    "defaultMessage": "Impossibile annullare la scommessa, è gia stata annullata",
+    "description": "alert annullo impossibile gia annullato"
+  },
+  "Lmj/tc": {
+    "defaultMessage": "Prenotazione non trovata",
+    "description": "prenotazioni search prenotazione non trovata"
+  },
+  "LuaxHk": {
+    "defaultMessage": "Puoi acquisire il codice effettuando una scansione del tesserino o inserirlo manualmente nell’apposito campo",
+    "description": "Description of fiscal code step"
+  },
+  "MIEneo": {
+    "defaultMessage": "A causa dell'intenso traffico non siamo riusciti a prendere in carico la richiesta. Riprova ad effettuare la vendita",
+    "description": "accettazione in timeout description of sell alert"
+  },
+  "MRYmg5": {
+    "defaultMessage": "Inserisci nome",
+    "description": "placeholder of name input in foreign customer info step "
+  },
+  "MUz8N/": {
+    "defaultMessage": "Data non valida",
+    "description": "label errore data sbagliata documento scaduto in aggiungi documento"
+  },
+  "MqeGgG": {
+    "defaultMessage": "Nessun importo da riscuotere",
+    "description": "Description of bet unsuccessful of rejected amount changed alert in single ticket booking"
+  },
+  "N6pv5U": {
+    "defaultMessage": "Prenotazione non più esistente",
+    "description": "toast heading prenotazione non piu esistente"
+  },
+  "NG/Whe": {
+    "defaultMessage": "Vendita prenotazione in corso",
+    "description": "Vendita prenotazione in corso Label Alert "
+  },
+  "NK30o3": {
+    "defaultMessage": "Conferma",
+    "description": "Button Confrim of Emssione voucher"
+  },
+  "NaczLF": {
+    "defaultMessage": "Attendi l'esito per poter effettuare nuove operazioni",
+    "description": "waiting sell description title of sell alert"
+  },
+  "NeFcm9": {
+    "defaultMessage": "Conferma",
+    "description": "Button Confrim of Payment Voucher"
+  },
+  "OM9FlY": {
+    "defaultMessage": "Scommessa rifiutata",
+    "description": "accettazione rifiutata header title of sell alert"
+  },
+  "OUiJsc": {
+    "defaultMessage": "Prenotazioni",
+    "description": "prenotazioni header title"
+  },
+  "OX7XUa": {
+    "defaultMessage": "Vicente + Buca d'arrivo",
+    "description": "VirtualTemplateBiglie:cluster Vicente + Buca d'arrivo"
+  },
+  "OjBpuc": {
+    "defaultMessage": "IMPOSTAZIONI DI SCOMMESSA",
+    "description": "label principale delle opzioni carrello"
+  },
+  "OxwMAA": {
+    "defaultMessage": "Annullo Scommessa in corso",
+    "description": "attesa annullo biglietto  header title"
+  },
+  "P4TKk3": {
+    "defaultMessage": "Operazione non consentita",
+    "description": "generic sell error alert"
+  },
+  "PBSA00": {
+    "defaultMessage": "Data di nascita",
+    "description": "label of dateofbirth input in foreign customer info step"
+  },
+  "PMYgpp": {
+    "defaultMessage": "Aggiungi Documento",
+    "description": "Add document button label"
+  },
+  "PN4y/H": {
+    "defaultMessage": "Biglietto non pagabile in questo Punto Vendita. Per ulteriori informazioni contatta il nostro Customer Care: 848.88.55.44",
+    "description": "error code 20608 ticket"
+  },
+  "PSabar": {
+    "defaultMessage": "Indirizzo di domicilio",
+    "description": "Title of living address section in disanonima"
+  },
+  "Pgpy5a": {
+    "defaultMessage": "L'importo di puntata supera la soglia antiriciclaggio.",
+    "description": "error message antiriciclaggio"
+  },
+  "Pom09w": {
+    "defaultMessage": "Aggiunta Documento",
+    "description": "Title of add document registration step in disanonima"
+  },
+  "PtTLlr": {
+    "defaultMessage": "Accetto tutte le variazioni di quote",
+    "description": "label default variazione quota"
+  },
+  "Q5XUNj": {
+    "defaultMessage": "Creata il",
+    "description": "Creata il Prenotazione label list "
+  },
+  "Q73yFT": {
+    "defaultMessage": "00100",
+    "description": "placeholder of cap input in residence step "
+  },
+  "QFQ+6W": {
+    "defaultMessage": "Chiedi al referente del tuo punto vendita o contatta il Customer Service",
+    "description": "description info authentication"
+  },
+  "QHm8Hw": {
+    "defaultMessage": "Giornata {giornata}",
+    "description": "CalcioCampionato: title description type campionato"
+  },
+  "QM/Vf8": {
+    "defaultMessage": "Importo (€)",
+    "description": "Boxes of bordero amounts sign"
+  },
+  "QUYh59": {
+    "defaultMessage": "Importo Voucher",
+    "description": "Emetti Voucher text"
+  },
+  "Qmprei": {
+    "defaultMessage": "Sei sicuro di voler eliminare questo",
+    "description": "messaggio header biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "R4vxvD": {
+    "defaultMessage": "Bianca",
+    "description": "VirtualTemplateRace: marble runner 9"
+  },
+  "RIY1Mp": {
+    "defaultMessage": "E",
+    "description": "VirtualTemplateBiglie: title template virtual biglie E"
+  },
+  "RQucg/": {
+    "defaultMessage": "Vincita Min - Max<br></br><b>per combinazione</b>",
+    "description": "vincita Min - Max per combinazione"
+  },
+  "RggDNB": {
+    "defaultMessage": "Gestisci",
+    "description": "Gestisci Prenotazione button list "
+  },
+  "RjYWU3": {
+    "defaultMessage": "Scommessa in accettazione",
+    "description": "default header title of acceptance alert"
+  },
+  "RrTwuP": {
+    "defaultMessage": "Vendita del biglietto in corso",
+    "description": "waiting sell header title of sell alert"
+  },
+  "RwUptG": {
+    "defaultMessage": "L'importo di puntata supera la soglia antriciclaggio.",
+    "description": "Warning limite antiriciclaggio'"
+  },
+  "SJ+LFe": {
+    "defaultMessage": "Scommessa in accettazione",
+    "description": "Vendita prenotazione in accettazione Label Alert "
+  },
+  "SYc0cZ": {
+    "defaultMessage": "{value}",
+    "description": "gender selected in foreign personal data step"
+  },
+  "SvtFBY": {
+    "defaultMessage": "Cap",
+    "description": "cap label in residence data step in disanonima "
+  },
+  "Sz9w0D": {
+    "defaultMessage": "Comune",
+    "description": "comune label in residence data step in disanonima "
+  },
+  "SzAMh2": {
+    "defaultMessage": "Ultimo aggiornamento",
+    "description": "prenotazioni ultimo aggiornamento"
+  },
+  "TMCml+": {
+    "defaultMessage": "Documenti",
+    "description": "Title of document registration step in disanonima"
+  },
+  "TSXaLv": {
+    "defaultMessage": "Esito Sospeso",
+    "description": "esito Sospeso dialog prenotazione body"
+  },
+  "TaK+Bq": {
+    "defaultMessage": "Modifica",
+    "description": "CTA Modifica modulo gestione prenotazione Header"
+  },
+  "ThKznS": {
+    "defaultMessage": "Annulla {esc}",
+    "description": "VirtualTemplateRace: button annulla"
+  },
+  "TkeF89": {
+    "defaultMessage": "D",
+    "description": "VirtualTemplateBiglie: title template virtual biglie D"
+  },
+  "Tz3UkZ": {
+    "defaultMessage": "Avanti",
+    "description": "next button in document info step"
+  },
+  "U/haOt": {
+    "defaultMessage": "Principali",
+    "description": "VirtualTemplateRace:cluster principali"
+  },
+  "U0lItD": {
+    "defaultMessage": "Disciplina",
+    "description": "MenuVirtual: title filter disciplina"
+  },
+  "Uhpphv": {
+    "defaultMessage": "Elimina esiti chiusi/sospesi ({esitinumber})",
+    "description": "button elimina esiti chiusi/sospesi biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "UoJzzj": {
+    "defaultMessage": "Altre classi d'esito",
+    "description": "button altre classi d'esito"
+  },
+  "Uru0OH": {
+    "defaultMessage": "Passaporto",
+    "description": "Passaport description in disanonima dialog"
+  },
+  "V3A7W/": {
+    "defaultMessage": "Ins",
+    "description": "MenuVirtual: Discipline header label shortcut in 'virtual'"
+  },
+  "VFJhew": {
+    "defaultMessage": "Elimina",
+    "description": "button elimina modulo gestione prenotazione multibiglietto"
+  },
+  "VPsZDR": {
+    "defaultMessage": "Nazionalità",
+    "description": "label of nationality input in foreign customer info step"
+  },
+  "VUD8sz": {
+    "defaultMessage": "Vincita potenziale massima",
+    "description": " Vincita potenziale massima footer sistema biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "VV0Lkz": {
+    "defaultMessage": "Under / Over",
+    "description": "virtaul calcio singolo under over header"
+  },
+  "Va64d4": {
+    "defaultMessage": "L'importo di puntata non rispetta l'importo base (€0,50)",
+    "description": "Error importo base non rispettato"
+  },
+  "Vj3CSB": {
+    "defaultMessage": "Prenotazione <spanGrigio>n°</spanGrigio> {i} <spanGrigio>di {totale}</spanGrigio>",
+    "description": "header lista esiti proposta accettazione"
+  },
+  "VqB5cR": {
+    "defaultMessage": "Discord",
+    "description": "VirtualTemplateBiglie: subtitle template virtual biglie trio non in ordine"
+  },
+  "VsHT6x": {
+    "defaultMessage": "Dettaglio sistema",
+    "description": "Header Dettaglio sistema  dettaglio Prenotazione "
+  },
+  "WDwYPB": {
+    "defaultMessage": "Aggiungi",
+    "description": "add button in add document info step"
+  },
+  "Wf+CLz": {
+    "defaultMessage": "Da {oldpuntata} a",
+    "description": "old amount label of amounts changed acceptance alert"
+  },
+  "WhF4Yy": {
+    "defaultMessage": "Importo da pagare {importo} €",
+    "description": "selling booking success toast description of amount to be paid"
+  },
+  "WtDoKX": {
+    "defaultMessage": "{tickettype}",
+    "description": "type biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "XIPq0b": {
+    "defaultMessage": "Si è verificato un errore generico",
+    "description": "error code generic ticket"
+  },
+  "XrahnD": {
+    "defaultMessage": "Documento scaduto",
+    "description": "label errore documento scaduto in aggiungi documento"
+  },
+  "XvLaCE": {
+    "defaultMessage": "Scommessa non andata a buon fine",
+    "description": "Heading of bet unsuccessful of rejected amount changed alert"
+  },
+  "Y/8mW9": {
+    "defaultMessage": "Scommessa non andata a buon fine",
+    "description": "Bet unsuccessful of rejected amount changed alert in single ticket booking"
+  },
+  "YLFmHc": {
+    "defaultMessage": "Inserisci numero del documento",
+    "description": "Labal inpun of  document number input in add document info step "
+  },
+  "YNcpV3": {
+    "defaultMessage": "Importo biglietti<b> da vendere</b>",
+    "description": "Importo biglietti da vendere header biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "YOZ5Wz": {
+    "defaultMessage": "Trio",
+    "description": "VirtualTemplateBiglie: title template virtual biglie TRIO"
+  },
+  "YRH6be": {
+    "defaultMessage": "Bonus",
+    "description": "Bonus footer biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "YY9mRH": {
+    "defaultMessage": "Saldo cassa aggiornato correttamente",
+    "description": "default desctiption refund voucher toast"
+  },
+  "YrAnB6": {
+    "defaultMessage": "Saldo cassa aggiornato",
+    "description": "default desctiption emit voucher toast"
+  },
+  "Yxd92Y": {
+    "defaultMessage": "in corso...",
+    "description": "VirtualTimer: status in corso timer"
+  },
+  "ZJDl7F": {
+    "defaultMessage": "CTRL invio",
+    "description": "Sistema footer button label shortcut in 'vendi'"
+  },
+  "ZV7eQ6": {
+    "defaultMessage": "E",
+    "description": "VirtualTemplateBiglie: subtitle template virtual biglie vincente"
+  },
+  "a7JrY5": {
+    "defaultMessage": "Accopiata",
+    "description": "VirtualTemplateBiglie: title template virtual biglie ACCOPPIATA_TRIO"
+  },
+  "aAe+dH": {
+    "defaultMessage": "P2",
+    "description": "VirtualTemplateRace: subtitle template virtual biglie p2"
+  },
+  "aBxMbL": {
+    "defaultMessage": "Codice biglietto non valido",
+    "description": "error code not valid ticket"
+  },
+  "aHHbto": {
+    "defaultMessage": "Provincia di nascita",
+    "description": "label of country input in customer info step"
+  },
+  "aUmy61": {
+    "defaultMessage": "Vincita potenziale minima",
+    "description": " Vincita potenziale minima footer sistema biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "aZYJ3u": {
+    "defaultMessage": "Impossibile annullare la scommessa, sono passati oltre 30 secondi dall'emissione",
+    "description": "alert annullo impossibile live"
+  },
+  "ath1xL": {
+    "defaultMessage": "Emissione voucher di {amount} andata a buon fine",
+    "description": "default header title emit voucher toast"
+  },
+  "b+EE4r": {
+    "defaultMessage": "2 giorni",
+    "description": "filtroGiornaliero label tutti"
+  },
+  "bGoRtT": {
+    "defaultMessage": "In ordine",
+    "description": "VirtualTemplateRace: subtitle template virtual race trio in ordine"
+  },
+  "bMG3fd": {
+    "defaultMessage": "Altre classi d'esito",
+    "description": "other outcome classes description in schedaManifestazione"
+  },
+  "bTxJlz": {
+    "defaultMessage": "Scommesse Pre-Match non più disponibili per la manifestazione selezionata",
+    "description": "default description schedaManifestazione not found"
+  },
+  "bZwZN7": {
+    "defaultMessage": "L'importo della scommessa è inferiore alla giocata minima (€1)",
+    "description": "Error limite minimo giocata'"
+  },
+  "bbT9Lg": {
+    "defaultMessage": "Procedi",
+    "description": "button procedi header biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "beJBb7": {
+    "defaultMessage": "Scommessa rifiutata.",
+    "description": "rejected heading in modulo gestione multibiglietto"
+  },
+  "bi+j5A": {
+    "defaultMessage": "B",
+    "description": "VirtualTemplateBiglie: subtitle template virtual biglie p2"
+  },
+  "blAIr1": {
+    "defaultMessage": "P3",
+    "description": "VirtualTemplateRace: subtitle template virtual race p3"
+  },
+  "bmdrTl": {
+    "defaultMessage": "Crea precompilata",
+    "description": "Multipla footer button label 'Crea Precompilata'"
+  },
+  "buu83E": {
+    "defaultMessage": "Puntata<br></br><b>totale</b>",
+    "description": "puntata totale"
+  },
+  "byPMu4": {
+    "defaultMessage": "Last Minute",
+    "description": "Label del tab 'last minute' nella home page"
+  },
+  "bzC/b3": {
+    "defaultMessage": "Crea precompilata",
+    "description": "Sistema footer button label 'Crea Precompilata'"
+  },
+  "cEbwvd": {
+    "defaultMessage": "Effettua una sovvenzione.",
+    "description": "saldo cassa error voucher detail"
+  },
+  "cFZ0Sk": {
+    "defaultMessage": "Scommesse andate a buon fine",
+    "description": "selling booking success toast heading "
+  },
+  "cegFOU": {
+    "defaultMessage": "Tutte",
+    "description": "All label of filter tab in booking list"
+  },
+  "ct2QYr": {
+    "defaultMessage": "I nostri quotisti stanno valutando la tua scommessa, attendi l’esito per poter effettuare nuove operazioni",
+    "description": "description of acceptance alert"
+  },
+  "cuE9re": {
+    "defaultMessage": "I nostri quotisti non hanno accettato la giocata",
+    "description": "accettazione rifiutata description title of sell alert"
+  },
+  "d48pgC": {
+    "defaultMessage": "C",
+    "description": "VirtualTemplateBiglie: title template virtual biglie C"
+  },
+  "d4PJpp": {
+    "defaultMessage": "Elimina tutti ({ticketsnumber})",
+    "description": "button elimina tutto modulo gestione prenotazione multibiglietto"
+  },
+  "dDYKX0": {
+    "defaultMessage": "Annula",
+    "description": "chiudi introduzione disanonima Dialog"
+  },
+  "dSlMRN": {
+    "defaultMessage": "Vincita Massima per combinazione",
+    "description": "maximum win for combination in system development"
+  },
+  "dWhvWF": {
+    "defaultMessage": "Vendita del biglietto non riuscita",
+    "description": "alert heading selling failed"
+  },
+  "dZmv8J": {
+    "defaultMessage": "Puntata",
+    "description": "Puntata footer biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "dgvcEv": {
+    "defaultMessage": "Scopri tutte le quote",
+    "description": "hotbet messagge: Scopri tutte le quote"
+  },
+  "e3pdKc": {
+    "defaultMessage": "Vincita potenziale",
+    "description": "Multipla footer button label 'vincita potenziale'"
+  },
+  "eILLyh": {
+    "defaultMessage": "Disanonimazione",
+    "description": "Title of DisanonimaModal"
+  },
+  "eJUV5f": {
+    "defaultMessage": "Attendi l'esito per poter effettuare nuove operazioni",
+    "description": "pagamento in corso blocking alert description"
+  },
+  "eTWf1l": {
+    "defaultMessage": "Blu",
+    "description": "VirtualTemplateRace: marble runner 2"
+  },
+  "ecqHK4": {
+    "defaultMessage": "Dati anagrafici",
+    "description": "Title of customer info step in disanonima"
+  },
+  "eeXCG+": {
+    "defaultMessage": "Per pagare il biglietto è necessario effettuare il processo di disanonimazione",
+    "description": "error code disanonimazione ticket"
+  },
+  "eikF2m": {
+    "defaultMessage": "Altri",
+    "description": "VirtualTemplateRace:cluster altri"
+  },
+  "elL4QC": {
+    "defaultMessage": "P2",
+    "description": "VirtualTemplateBiglie: subtitle template virtual biglie p2"
+  },
+  "eq8fJP": {
+    "defaultMessage": "Annulla",
+    "description": "annulla button of timeout acceptance alert"
+  },
+  "etNSQm": {
+    "defaultMessage": "Rossa",
+    "description": "VirtualTemplateRace: marble runner 1"
+  },
+  "eubzl1": {
+    "defaultMessage": "Vincente piazzato",
+    "description": "VirtualTemplateBiglie: title template virtual biglie VINCENTE_PIAZZATO"
+  },
+  "fEnUug": {
+    "defaultMessage": "Impossibile il recupero dei dati poichè eliminata o alcuni esiti appartengono ad avvenimenti Live.",
+    "description": "toast description precompilata scaduta"
+  },
+  "fFOzCg": {
+    "defaultMessage": "IMPOSTAZIONI DI QUOTA",
+    "description": "label impostazioni quota"
+  },
+  "fOIUFQ": {
+    "defaultMessage": "Customer Service",
+    "description": "title info Customer Service authentication"
+  },
+  "fP7/4T": {
+    "defaultMessage": "Data di nascita",
+    "description": "label of dateofbirth input in customer info step"
+  },
+  "fT7ML/": {
+    "defaultMessage": "Quota totale",
+    "description": "Multipla footer button label 'quota totale'"
+  },
+  "feZey0": {
+    "defaultMessage": "Scaduto",
+    "description": "Expired label of document in document registration list"
+  },
+  "fo3TSl": {
+    "defaultMessage": "Vendita prenotazione in corso",
+    "description": "Vendita prenotazione in corso Label Alert"
+  },
+  "g9RRi4": {
+    "defaultMessage": "Luogo di nascita",
+    "description": "label of birthplace input in foreign customer info step"
+  },
+  "gB44un": {
+    "defaultMessage": "Altre Manifestazioni",
+    "description": "label Altre Manifestazioni of MenuPrematch"
+  },
+  "gEf6Mw": {
+    "defaultMessage": "Verde",
+    "description": "VirtualTemplateRace: marble runner 3"
+  },
+  "gYauwr": {
+    "defaultMessage": "Richiesta di conferma",
+    "description": "title of checkbox in foreign fiscal code"
+  },
+  "gcDCto": {
+    "defaultMessage": "Inserisci nazionalità",
+    "description": "placeholder of nationality input in foreign customer info step"
+  },
+  "gk6B1B": {
+    "defaultMessage": "Vuoi procedere con l’eliminazione della prenotazione",
+    "description": "label messagge delete booking"
+  },
+  "goCBEP": {
+    "defaultMessage": "Saldo cassa insufficiente.",
+    "description": "saldo cassa error voucher"
+  },
+  "gvCkSD": {
+    "defaultMessage": "Saldo cassa insufficiente per completare il pagamento. Effettua una sovvenzione della cassa.",
+    "description": "error code saldo cassa ticket"
+  },
+  "h+nj3q": {
+    "defaultMessage": "oggi",
+    "description": "filtroGiornaliero label oggi"
+  },
+  "h1D2M1": {
+    "defaultMessage": "C",
+    "description": "VirtualTemplateBiglie: subtitle template virtual biglie p3"
+  },
+  "haF/UH": {
+    "defaultMessage": "Vincita potenziale minima",
+    "description": "Sistema footer button label 'vincita potenziale minima'"
+  },
+  "hvu1vB": {
+    "defaultMessage": "Elimina esiti chiusi",
+    "description": "Multipla footer button label 'elimina esiti chiusi'"
+  },
+  "i8QxiA": {
+    "defaultMessage": "Modifica",
+    "description": "button modifica modulo gestione prenotazione multibiglietto"
+  },
+  "iUmN9f": {
+    "defaultMessage": "Modifica",
+    "description": "button modifica subheader biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "ij+LyA": {
+    "defaultMessage": "Attendi l'esito per poter effettuare nuove operazioni",
+    "description": "waiting emit voucher description title of emit voucher alert"
+  },
+  "j+T+T1": {
+    "defaultMessage": "Importo decurtato dal saldo cassa {amount}",
+    "description": "toast description annullamento biglietto successo"
+  },
+  "jKxUe/": {
+    "defaultMessage": "Principali",
+    "description": "VirtualTemplateBiglie:cluster principali"
+  },
+  "jM4X6z": {
+    "defaultMessage": "ESC",
+    "description": "Sistema footer button label 'esci sviluppo'"
+  },
+  "jVg+Hw": {
+    "defaultMessage": "{provenancevalue}",
+    "description": "Provenance value in booking list"
+  },
+  "jZlQXK": {
+    "defaultMessage": "Rimuovi esiti chiusi/sospesi",
+    "description": "Multipla footer button label 'rimuovi esiti chiusi/sospesi'"
+  },
+  "jcCDrO": {
+    "defaultMessage": "Prelievo di {value} andato a buon fine",
+    "description": "saldo-cassa: descrizione conferma prelievo"
+  },
+  "k4HjH5": {
+    "defaultMessage": "Vincita massima del sistema superiore al limite consentito di 50.000€. Modifica il pronostico o la puntata",
+    "description": "error message max win sviluppo sistema"
+  },
+  "kL0CS7": {
+    "defaultMessage": "Data non valida",
+    "description": "label errore invalid data  in customer info"
+  },
+  "kmuDUx": {
+    "defaultMessage": "Nera",
+    "description": "VirtualTemplateRace: marble runner 10"
+  },
+  "kzXfUC": {
+    "defaultMessage": "Codice fiscale",
+    "description": "label of fiscal code in document registration step"
+  },
+  "l9mahg": {
+    "defaultMessage": "Vendi",
+    "description": "button vendi modulo gestione prenotazione multibiglietto"
+  },
+  "lGQYzP": {
+    "defaultMessage": "Impossibile inviare al carrello",
+    "description": "accoppiata trio error alert heading"
+  },
+  "lPa9FF": {
+    "defaultMessage": "Rifiuta",
+    "description": "rifiuta button of amounts changed acceptance alert"
+  },
+  "lSr3X4": {
+    "defaultMessage": "Trio",
+    "description": "VirtualTemplateRace: title template virtual race TRIO"
+  },
+  "lUcEe5": {
+    "defaultMessage": "Emissione Voucher in corso",
+    "description": "waiting emit voucher header title of emit voucher alert"
+  },
+  "leCPka": {
+    "defaultMessage": "La scommessa non è compatibile con quanto già inserito nel biglietto",
+    "description": "alert description attention add to virtual cart"
+  },
+  "lj5Aly": {
+    "defaultMessage": "Attendi l'esito per poter effettuare nuove operazioni",
+    "description": "attesa annullo biglietto  header descrizione"
+  },
+  "ljO8vn": {
+    "defaultMessage": "Impossibile il recupero dei dati poichè venduta, eliminata o scaduta",
+    "description": "toast description prenotazione non più esistente"
+  },
+  "lkEbzi": {
+    "defaultMessage": "Sesso",
+    "description": "label of gender input in foreign customer info step"
+  },
+  "llckfd": {
+    "defaultMessage": "Accopiata",
+    "description": "VirtualTemplateRace: title template virtual race ACCOPPIATA_TRIO"
+  },
+  "m23TGt": {
+    "defaultMessage": "Invia {space}",
+    "description": "VirtualTemplateRace: button invia"
+  },
+  "m5Nvq3": {
+    "defaultMessage": "Scadenza Documento",
+    "description": "label of Scadenza Documento input in add document info step"
+  },
+  "mZK7aS": {
+    "defaultMessage": "Codice Fiscale/Carta Regionale dei servizi e Titolo di pagamento alternativo ai contanti",
+    "description": "introduzione detailsInfo  tipo di documento da possedere dialog-disanonimazione"
+  },
+  "mb9hMH": {
+    "defaultMessage": "Impossibile annullare la scommessa, sono passati oltre 3 minuti dall'emissione",
+    "description": "alert annullo impossibile prematch"
+  },
+  "mfvqwT": {
+    "defaultMessage": "Inserisci luogo di nascita",
+    "description": "placeholder of birthplace input in foreign customer info step"
+  },
+  "mgCNb6": {
+    "defaultMessage": "La vincita potenziale è superiore al limite consentito (€10.000,00). Modifica il pronostico o la puntata",
+    "description": "Error limite vincita massima'"
+  },
+  "mq7RX4": {
+    "defaultMessage": "Vendita non andata a buon fine.",
+    "description": "Vendita non andata a buon fine biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "n7uQTs": {
+    "defaultMessage": "di {totale}",
+    "description": "counte Vendita prenotazione in corso Label Alert "
+  },
+  "na7AoI": {
+    "defaultMessage": "Vincita Minima per combinazione",
+    "description": "minumum win for combination in system development"
+  },
+  "nf5hpx": {
+    "defaultMessage": "L'operazione non è andata a buon fine",
+    "description": "default header title of sell alert"
+  },
+  "ngV10e": {
+    "defaultMessage": "{message}",
+    "description": "login Error: {message}"
+  },
+  "nj4FcU": {
+    "defaultMessage": "Sovvenzione di {value} andata a buon fine",
+    "description": "saldo-cassa: descrizione conferma sovvenzione"
+  },
+  "nqRdCN": {
+    "defaultMessage": "Codice incompleto",
+    "description": "prenotazioni search codice incompleto"
+  },
+  "o9H4/Y": {
+    "defaultMessage": "x{sviluppo}",
+    "description": "moltiplicatore sviluppo "
+  },
+  "oMTfQy": {
+    "defaultMessage": "Luogo di nascita",
+    "description": "label of birthPlace in document registration step"
+  },
+  "oQ8rwd": {
+    "defaultMessage": "Scommessa in accettazione",
+    "description": "Titolo Alert vendita in accettazione"
+  },
+  "oVdWcT": {
+    "defaultMessage": "Sala",
+    "description": "Room label of filter tab in booking list"
+  },
+  "od+1XF": {
+    "defaultMessage": "V",
+    "description": "VirtualTemplateRace: subtitle template virtual biglie vincente"
+  },
+  "pG5QNS": {
+    "defaultMessage": "Attendi l'esito per poter effettuare nuove operazioni",
+    "description": "waiting sell voucher description title of sell voucher alert"
+  },
+  "phGA+x": {
+    "defaultMessage": "Seleziona un documento dalla seguente lista o aggiungi un nuovo documento",
+    "description": "Selected document message Message"
+  },
+  "pjhe0W": {
+    "defaultMessage": "Nome e Cognome",
+    "description": "label of name in document registration step"
+  },
+  "q3kcLo": {
+    "defaultMessage": "Numero Documento",
+    "description": "label of document number input in add document info step"
+  },
+  "qsOrfp": {
+    "defaultMessage": "Documento d’identità",
+    "description": "introduzione detailsInfo documenti validi"
+  },
+  "qynk0+": {
+    "defaultMessage": "Puntata",
+    "description": "Multipla footer button label 'puntata'"
+  },
+  "r/IaTv": {
+    "defaultMessage": "A causa dell'intenso traffico non siamo riusciti a prendere in carico la richiesta. Riprova ad effettuare la vendita",
+    "description": "timeout description in modulo gestione multibiglietto"
+  },
+  "r5D0jX": {
+    "defaultMessage": "P4",
+    "description": "VirtualTemplateRace: subtitle template virtual race p4"
+  },
+  "rC4DZE": {
+    "defaultMessage": "Vendita non andata a buon fine.",
+    "description": "description of unseccessful sale in booking"
+  },
+  "rFpLOf": {
+    "defaultMessage": "Pagamento di {amount} in corso",
+    "description": "pagamento in corso blocking alert heading"
+  },
+  "rFqPw+": {
+    "defaultMessage": "Operazione non consentita",
+    "description": "default header title of operation not allowed in schedaManifestazione"
+  },
+  "rGyz1H": {
+    "defaultMessage": "{cardinalita} <b> su {eventsNumber}</b>",
+    "description": "sviluppo della cardinalità"
+  },
+  "rJdz7U": {
+    "defaultMessage": "Giocata Frazionata",
+    "description": "alert failed giocata frazionata"
+  },
+  "rK8Lml": {
+    "defaultMessage": "Buono gioco",
+    "description": "Sistema footer button label 'buono gioco'"
+  },
+  "rT5uzC": {
+    "defaultMessage": "Tutte le discipline",
+    "description": "MenuVirtual: filter all"
+  },
+  "rYDqon": {
+    "defaultMessage": "Straniera",
+    "description": "second option of nationality select"
+  },
+  "rqcuw4": {
+    "defaultMessage": "Scommessa in accettazione",
+    "description": "default prenotazione header title of acceptance alert"
+  },
+  "rzg4+P": {
+    "defaultMessage": "Sviluppa sistema",
+    "description": "Sistema footer button label 'sviluppo sistema'"
+  },
+  "sLK9pf": {
+    "defaultMessage": "I nostri quotisti stanno valutando la tua scommessa, attendi l’esito per poter effettuare nuove operazioni",
+    "description": "Submessage modale accettazione Alert "
+  },
+  "sM4jt/": {
+    "defaultMessage": "tutti",
+    "description": "filtroGiornaliero label tutti"
+  },
+  "slMJNe": {
+    "defaultMessage": "Accetto che la giocata venga convalidata con un importo di puntata più basso",
+    "description": "Accetto checkbox label"
+  },
+  "sluLXz": {
+    "defaultMessage": "Vendi tutti ({ticketsnumber})",
+    "description": "button vendi tutti modulo gestione prenotazione multibiglietto"
+  },
+  "t4h/Lv": {
+    "defaultMessage": "Scommessa rifiutata",
+    "description": "accettazione rifiutata header title of prenotazione alert"
+  },
+  "tLscDC": {
+    "defaultMessage": "Vincente piazzato",
+    "description": "VirtualTemplateRace: title template virtual race VINCENTE_PIAZZATO"
+  },
+  "tODV5q": {
+    "defaultMessage": "Pagamento andato a buon fine",
+    "description": "default header title of payment toast"
+  },
+  "tXW1oY": {
+    "defaultMessage": "Data di nascita",
+    "description": "label of dateofbirth in document registration step"
+  },
+  "tm94kd": {
+    "defaultMessage": "Vincita massima per combinazione superiore al limite consentito di 10.000€. Modifica la puntata",
+    "description": "error message max win legatura"
+  },
+  "togz7V": {
+    "defaultMessage": "Gestisci le prenotazioni effettuate dall' <b>applicazione MatchPoint</b>, dal <b>sito web</b> o dai <b>prenotatori di sala</b><br></br><b>Ricerca</b> il codice prenotazione o il codice <b>precompilata</b>",
+    "description": "prenotazioni header subtitle"
+  },
+  "uB4EpA": {
+    "defaultMessage": "Avanti",
+    "description": "avanti button in fiscal code step"
+  },
+  "uBwCJw": {
+    "defaultMessage": "Impossibile annullare la scommessa",
+    "description": "alert annullo impossibile generico"
+  },
+  "uLcQlY": {
+    "defaultMessage": "Tipo Documento",
+    "description": "label of Tipo Documento input in add document step"
+  },
+  "ucvD6t": {
+    "defaultMessage": "Viola",
+    "description": "VirtualTemplateRace: marble runner 8"
+  },
+  "us/oYk": {
+    "defaultMessage": "Vendi",
+    "description": "Multipla footer button label 'vendi'"
+  },
+  "v4qo+m": {
+    "defaultMessage": "Impossibile effettuare l'annullo. Saldo cassa insufficiente",
+    "description": "alert heading annullo biglietto errore saldo cassa insufficiente"
+  },
+  "v7Nbe3": {
+    "defaultMessage": "Proposta in scadenza tra",
+    "description": "countdown label of amounts changed acceptance alert"
+  },
+  "vY/mh5": {
+    "defaultMessage": "Pagamento Voucher in corso",
+    "description": "waiting sell voucher header title of sell voucher alert"
+  },
+  "vYDlzJ": {
+    "defaultMessage": "dalla prenotazione?",
+    "description": "messaggio header biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "w9Gdp1": {
+    "defaultMessage": "Ente di rilascio",
+    "description": "label of ente input in add document info step"
+  },
+  "wFcWsY": {
+    "defaultMessage": "I nostri quotisti non hanno accettato la tua giocata",
+    "description": "rejected description in modulo gestione nultibiglietto"
+  },
+  "wKym8y": {
+    "defaultMessage": "Costo<br></br><b>per combinazione</b>",
+    "description": "Costo per combinazione"
+  },
+  "wMo2dC": {
+    "defaultMessage": "Precompilata non trovata",
+    "description": "prenotazioni search precompilata non trovata"
+  },
+  "wmcWGL": {
+    "defaultMessage": "Scansione del codice fiscale",
+    "description": "Title of fiscal code step"
+  },
+  "wrRDPX": {
+    "defaultMessage": "Scommessa annullata correttamente",
+    "description": "toast heading annullamento biglietto successo"
+  },
+  "wteUeW": {
+    "defaultMessage": "In ordine",
+    "description": "VirtualTemplateBiglie: subtitle template virtual biglie trio in ordine"
+  },
+  "wwmjQk": {
+    "defaultMessage": "Pagamento voucher di {amount} andato a buon fine",
+    "description": "default header title refund voucher toast"
+  },
+  "xEmVe0": {
+    "defaultMessage": "Nessun documento disponibile. Aggiungi un nuovo documento per proseguire.",
+    "description": "Document attachment Message"
+  },
+  "xThtno": {
+    "defaultMessage": "Vendi",
+    "description": "button vendi subheader biglietto modulo gestione prenotazione multibiglietto"
+  },
+  "xddUvu": {
+    "defaultMessage": "Errore durante emissione del voucher",
+    "description": "generic emit voucher error alert"
+  },
+  "y0EnYY": {
+    "defaultMessage": "Inserisci ente di rilascio",
+    "description": "Labal input of  ente input in add document info step "
+  },
+  "y2jIzY": {
+    "defaultMessage": "Nessun risultato disponibile",
+    "description": "empty result description in address input"
+  },
+  "y92LMO": {
+    "defaultMessage": "Problemi con l'accesso?",
+    "description": "title info authentication"
+  },
+  "yFx1Pt": {
+    "defaultMessage": "Accedi a tutte le funzionalità {br} di vendita e gestione",
+    "description": "Authentication: description"
+  },
+  "yRq236": {
+    "defaultMessage": "Legature<br></br><b>del sistema</b>",
+    "description": "legature del sistema"
+  },
+  "ye5jXd": {
+    "defaultMessage": "{genderoption}",
+    "description": "first option of gender select"
+  },
+  "ykIjpw": {
+    "defaultMessage": "Raggiungi in modo semplice i tuoi biglietti emessi, gli importi aggiunti, Conti gioco e Voucher",
+    "description": "Bordero header subtitle"
+  },
+  "zA6zKU": {
+    "defaultMessage": "On Demand",
+    "description": "Badge per card monoquota ondemand"
+  },
+  "zeVMm1": {
+    "defaultMessage": "Puntata",
+    "description": "new amount title of amounts changed acceptance alert"
+  },
+  "zjZhcd": {
+    "defaultMessage": "Rimuovi esiti chiusi/sospesi",
+    "description": "Sistema footer button label 'rimuovi esiti chiusi/sospesi'"
+  },
+  "zu48iB": {
+    "defaultMessage": "Il domicilio coincide con la residenza",
+    "description": "description of checkbox in residence step"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "jest.autoEnable": false,
+  "jest.pathToJest": "npm test --"
+}

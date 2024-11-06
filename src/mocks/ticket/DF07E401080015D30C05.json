@@ -1,0 +1,60 @@
+{
+  "type": "ticketInfoSportAccumulatorResponseDTO",
+  "accountingDate": "2020-01-12",
+  "agentId": 4000,
+  "balance": {
+    "amount": 451.64
+  },
+  "paymentAmount": 1363.31,
+  "sellingAmount": 40,
+  "sellingDate": "2020-04-08 18:56:00",
+  "sportCode": "SPORT",
+  "sportId": 1,
+  "status": "WINNING",
+  "ticketId": "DF07E401080015D30C04",
+  "ticketType": "ACCUMULATOR",
+  "winningStatus": "LOOK_AT_STATUS",
+  "gameType": "SPORT",
+  "events": [
+    {
+      "eventDescription": "Abu Hamis, M v Sukhotskiy, P",
+      "eventId": 261,
+      "eventType": "Tennis",
+      "outcomeDescription": "1",
+      "outcomeResult": "1",
+      "outcomeId": 3,
+      "eventIconUrl": "https://www.sisal.it/documents/10903/450920/Ic__0021_soccer.png",
+      "status": "WINNING",
+      "isReported": true,
+      "eventTimestamp": "2020-01-11T18:30",
+      "marketDescription": "Esito Finale 1x2",
+      "marketId": 19317,
+      "outcomeValue": 5.56,
+      "scheduleId": 30021,
+      "addedInfo": 327681,
+      "competitionDescription": "Russia Liga Pro (MatchTieBreak)",
+      "tournamentId": 86
+    },
+    {
+      "eventDescription": "Torino - Roma",
+      "eventId": 264,
+      "eventType": "Calcio",
+      "eventIconUrl": "https://www.sisal.it/documents/10903/450920/Ic__0021_soccer.png",
+      "status": "WINNING",
+      "isReported": true,
+      "eventTimestamp": "2020-01-11T18:30",
+      "marketDescription": "Esito Finale 1x2",
+      "marketId": 19317,
+      "outcomeDescription": "1",
+      "outcomeResult": "1",
+      "outcomeId": 3,
+      "outcomeValue": 6.13,
+      "scheduleId": 30021,
+      "addedInfo": 327681,
+      "addedInfoDescription": "DC OUT + MULTIGOAL 1 - 5",
+      "competitionDescription": "Calcio",
+      "tournamentId": 86,
+      "isFixed": true
+    }
+  ]
+}

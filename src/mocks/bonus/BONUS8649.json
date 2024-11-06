@@ -1,0 +1,14 @@
+{
+  "bonus": [
+    {
+      "systemClass": 0,
+      "bonusMultiplier": 107,
+      "minimumOutcomes": 5,
+      "minimumQuotaValue": 110,
+      "bonusExpirationDate": {
+        "date": { "year": 2022, "month": 7, "day": 24 },
+        "time": { "hour": 6, "minute": 42, "second": 11, "nano": 198000000 }
+      }
+    }
+  ]
+}

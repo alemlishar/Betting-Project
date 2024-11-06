@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="58px" viewBox="0 0 42 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>01.Basics/09.Virtual/Flags/Calcio Ultra</title>
+    <defs>
+        <path d="M4,4.97379915e-14 L39,4.97379915e-14 L39,4.97379915e-14 L32.0253842,42.9169288 L0,29 L0,4 C-2.705415e-16,1.790861 1.790861,5.01438038e-14 4,4.97379915e-14 Z" id="path-1"></path>
+        <filter x="-10.3%" y="-4.7%" width="120.5%" height="118.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-4">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.200000 0 0 0 0 0.200000 0 0 0 0 0.200000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="01.Basics/09.Virtual/Flags/Calcio-Ultra" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BG">
+            <rect fill="#FFFFFF" opacity="0" x="0" y="0" width="42" height="58"></rect>
+            <path d="M4.15816284,0.164545387 L36,1.42457959 L36,1.42457959 L17.9701653,53 L0,40.406002 L0,4.16141723 C-1.6956855e-15,1.95227823 1.790861,0.161417228 4,0.161417228 C4.05273641,0.161417228 4.10546767,0.162460152 4.15816284,0.164545387 Z" id="Rectangle-5" fill="#0F90E7"></path>
+            <g id="Rectangle-5-Copy-3">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#005995" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+        <g id="01.Basics/02.Icon/Virtual/Calcio_deluxe" transform="translate(10.000000, 10.000000)" filter="url(#filter-3)">
+            <g>
+                <rect id="Rectangle-Copy" fill="#FFFFFF" opacity="0" x="0" y="0" width="18" height="18"></rect>
+                <g filter="url(#filter-4)">
+                    <g transform="translate(0.642857, 0.642857)">
+                        <polygon id="Path" fill="#222222" fill-rule="nonzero" points="8.71714286 16.3735714 8.76214286 16.3735714 8.595 16.4121429"></polygon>
+                        <path d="M9.13559369,10.2703919 C9.13559369,10.2703919 10.8942272,4.22232521 5.66482903,0.642857143 C5.66482903,0.642857143 7.65597417,4.29042449 6.6202405,7.73795021 C6.38772886,8.50406704 5.20403324,3.35405947 0,9.53832476 C0,9.53832476 5.69864891,7.36340421 5.73669627,9.92989558 C5.77474363,12.496387 10.2770145,13.9222155 11.0337342,13.994571 C11.7904539,14.0669265 9.48647489,16.4674258 8.45496871,16.7142857 C9.30046558,16.5057317 14.4030392,15.1735396 14.1324802,12.7985775 C13.8196464,10.0192759 9.13559369,10.2703919 9.13559369,10.2703919 Z" id="Path" fill="#222222" fill-rule="nonzero"></path>
+                        <path d="M15.1071429,9 C14.2195424,9 13.5,9.71954237 13.5,10.6071429 C13.5,11.4947433 14.2195424,12.2142857 15.1071429,12.2142857 C15.9947433,12.2142857 16.7142857,11.4947433 16.7142857,10.6071429 C16.7142857,9.71954237 15.9947433,9 15.1071429,9 Z" id="Path" fill="#222222" fill-rule="nonzero"></path>
+                        <path d="M10.6071464,1.92857143 C11.1397048,1.92857143 11.5714286,1.49684601 11.5714286,0.964285714 C11.5714286,0.43172542 11.1397048,0 10.6071464,0 C10.0745881,0 9.64285714,0.43172542 9.64285714,0.964285714 L9.64285714,0.964285714 C9.6418782,1.21968854 9.74264567,1.46496892 9.92289511,1.64591497 C10.1031446,1.82686103 10.3480339,1.92857143 10.6034377,1.92857143 L10.6071464,1.92857143 Z" id="Path" fill="#222222" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,93 @@
+{
+  "type": "ticketInfoSportAccumulatorResponseDTO",
+  "accountingDate": "2020-01-12",
+  "agentId": 4000,
+  "paymentAmount": 56.16,
+  "sellingAmount": 15,
+  "sellingDate": "2020-04-08 18:56:00",
+  "sportCode": "SPORT",
+  "sportId": 1,
+  "status": "LOSING",
+  "ticketId": "DF07E4010C0E8CF3B504",
+  "ticketType": "ACCUMULATOR",
+  "winningStatus": "LOOK_AT_STATUS",
+  "bonus": {},
+  "gameType": "SPORT",
+  "events": [
+    {
+      "eventDescription": "Tottenham - Liverpool",
+      "eventId": 260,
+      "eventResult": {
+        "isLive": false,
+        "outcome": "2-1",
+        "gameMinutes": "90",
+        "ballPossession": "60-40",
+        "actualSet": "1"
+      },
+      "status": "LOSING",
+      "isReported": true,
+      "eventTimestamp": "2020-01-11T18:30",
+      "marketDescription": "Esito Finale 1x2",
+      "marketId": 19317,
+      "outcomeDescription": "2",
+      "outcomeResult": "1",
+      "outcomeId": 3,
+      "outcomeValue": 2.56,
+      "scheduleId": 30021,
+      "addedInfo": 327681,
+      "addedInfoDescription": "DC OUT + MULTIGOAL 1 - 5",
+      "competitionDescription": "Premier League",
+      "tournamentId": 86
+    },
+    {
+      "eventDescription": "Juventus - Milan",
+      "eventId": 260,
+      "eventResult": {
+        "isLive": false,
+        "outcome": "1-0",
+        "gameMinutes": "90",
+        "ballPossession": "60-40",
+        "actualSet": "1"
+      },
+      "status": "WINNING",
+      "isReported": true,
+      "eventTimestamp": "2020-01-11T18:30",
+      "marketDescription": "Esito Finale 1x2",
+      "marketId": 19317,
+      "outcomeDescription": "1",
+      "outcomeResult": "1",
+      "outcomeId": 3,
+      "outcomeValue": 2.13,
+      "scheduleId": 30021,
+      "addedInfo": 327681,
+      "addedInfoDescription": "DC OUT + MULTIGOAL 1 - 5",
+      "competitionDescription": "Serie A",
+      "tournamentId": 86
+    },
+    {
+      "eventDescription": "Lecce - Inter",
+      "eventId": 260,
+      "eventResult": {
+        "isLive": false,
+        "outcome": "0-0",
+        "gameMinutes": "55",
+        "ballPossession": "",
+        "actualSet": ""
+      },
+      "status": "LOSING",
+      "isReported": true,
+      "eventTimestamp": "2020-05-05T18:30",
+      "marketDescription": "DC OUT + MULTIGOAL",
+      "marketId": 19317,
+      "outcomeDescription": "12+ MULTIGOAL",
+      "outcomeResult": "OVER",
+      "outcomeId": 3,
+      "outcomeValue": 25,
+      "scheduleId": 30021,
+      "addedInfo": 327681,
+      "addedInfoDescription": "DC OUT + MULTIGOAL 1 - 5",
+      "competitionDescription": "Serie A",
+      "tournamentId": 86
+    }
+  ]
+}

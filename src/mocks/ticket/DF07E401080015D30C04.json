@@ -1,0 +1,154 @@
+{
+  "type": "ticketInfoSportAccumulatorResponseDTO",
+  "accountingDate": "2020-01-12",
+  "agentId": 4000,
+  "paymentAmount": 56.16,
+  "sellingAmount": 15,
+  "sellingDate": "2020-04-08 18:56:00",
+  "sportCode": "SPORT",
+  "sportId": 1,
+  "status": "EMITTED",
+  "ticketId": "DF07E401080015D30C04",
+  "ticketType": "ACCUMULATOR",
+  "winningStatus": "LOOK_AT_STATUS",
+  "bonus": {
+    "clazz": 1,
+    "value": 22,
+    "minimumOdds": 2,
+    "minimumEvents": 1
+  },
+  "gameType": "SPORT",
+  "events": [
+    {
+      "eventDescription": "Abu Hamis, M v Sukhotskiy, P",
+      "eventId": 260,
+      "eventType": "Tennis",
+      "outcomeDescription": "1",
+      "outcomeId": 3,
+      "eventIconUrl": "https://www.sisal.it/documents/10903/450920/Ic__0021_soccer.png",
+      "livescore": {
+        "codicePalinsesto": 30172,
+        "codiceAvvenimento": 18482,
+        "statusCode": 11,
+        "statusDescription": null,
+        "scoreList": [
+          {
+            "type": "Period1",
+            "team1": 10,
+            "team2": 12
+          },
+          {
+            "type": "Period2",
+            "team1": 11,
+            "team2": 9
+          },
+          {
+            "type": "Period3",
+            "team1": 11,
+            "team2": 6
+          },
+          {
+            "type": "Period4",
+            "team1": 0,
+            "team2": 0
+          }
+        ],
+        "server": "SECOND",
+        "playTimeMs": null,
+        "normalTimeHalfDurationMs": null,
+        "showTimer": true,
+        "addPlayTimeMs": null
+      },
+      "status": "OPEN",
+      "isReported": false,
+      "eventTimestamp": "2020-01-11T18:30",
+      "marketDescription": "Esito Finale 1x2",
+      "marketId": 19317,
+      "outcomeValue": 2.56,
+      "scheduleId": 30021,
+      "addedInfo": 327681,
+      "outcomeDescription": "1",
+      "outcomeId": 3,
+      "competitionDescription": "Russia Liga Pro (MatchTieBreak)",
+      "tournamentId": 86
+    },
+    {
+      "eventDescription": "Torino - Roma",
+      "eventId": 264,
+      "eventType": "Calcio",
+      "eventIconUrl": "https://www.sisal.it/documents/10903/450920/Ic__0021_soccer.png",
+      "livescore": {
+        "codicePalinsesto": 30172,
+        "codiceAvvenimento": 18482,
+        "statusCode": 11,
+        "statusDescription": null,
+        "scoreList": [
+          {
+            "type": "Period1",
+            "team1": 1,
+            "team2": 1
+          }
+        ],
+        "server": "SECOND",
+        "playTimeMs": 500000,
+        "normalTimeHalfDurationMs": null,
+        "showTimer": true,
+        "addPlayTimeMs": null
+      },
+      "status": "OPEN",
+      "isReported": false,
+      "eventTimestamp": "2020-01-11T18:30",
+      "marketDescription": "Esito Finale 1x2",
+      "marketId": 19317,
+      "outcomeDescription": "1",
+      "outcomeId": 3,
+      "outcomeValue": 2.13,
+      "scheduleId": 30021,
+      "addedInfo": 327681,
+      "addedInfoDescription": "DC OUT + MULTIGOAL 1 - 5",
+      "competitionDescription": "Calcio",
+      "tournamentId": 86,
+      "isFixed": true
+    },
+    {
+      "eventDescription": "Udinese - SPAL",
+      "eventId": 6194,
+      "eventTimestamp": "2020-03-28T19:00",
+      "marketDescription": "ESITO FINALE 1X2 ",
+      "marketId": 3,
+      "outcomeDescription": "1",
+      "outcomeId": "1",
+      "outcomeValue": 0.02,
+      "scheduleId": 30131,
+      "sportCode": "CALCIO",
+      "sportId": 1,
+      "status": "CANCELED",
+      "addedInfo": 0,
+      "addedInfoDescription": "ESITO FINALE 1X2 ",
+      "competitionDescription": "ITALIA - I DIVISIONE",
+      "tournamentId": 21,
+      "isFixed": false,
+      "regulatorPaymentAmount": 690.86
+    },
+    {
+      "eventDescription": "Udinese - SPAL",
+      "eventId": 6194,
+      "eventTimestamp": "2020-03-28T19:00",
+      "marketDescription": "UNDER/OVER",
+      "marketId": 7989,
+      "outcomeDescription": "UNDER",
+      "outcomeId": "1",
+      "outcomeValue": 0.02,
+      "scheduleId": 30131,
+      "sportCode": "CALCIO",
+      "sportId": 1,
+      "status": "LOSING",
+      "addedInfo": 250,
+      "addedInfoDescription": "U/O 2.5",
+      "competitionDescription": "ITALIA - I DIVISIONE",
+      "tournamentId": 21,
+      "isFixed": true,
+      "regulatorPaymentAmount": 690.86
+    }
+  ]
+}

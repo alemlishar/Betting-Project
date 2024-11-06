@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="40px" viewBox="0 0 38 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>header/bt_saldo</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-278.000000, -17.000000)">
+            <path d="M308,17.5 C310.071068,17.5 311.946068,18.3394661 313.303301,19.6966991 C314.660534,21.0539322 315.5,22.9289322 315.5,25 L315.5,25 L315.5,49 C315.5,51.0710678 314.660534,52.9460678 313.303301,54.3033009 C311.946068,55.6605339 310.071068,56.5 308,56.5 L308,56.5 L278.5,56.5 L278.5,17.5 Z" id="Rectangle-5-Copy" stroke="#FFFFFF"></path>
+            <polygon id="+" fill="#FFFFFF" fill-rule="nonzero" points="297.931864 46 302 46 302 43 297.931864 43 296.068136 43 292 43 292 46 296.068136 46"></polygon>
+            <polygon id="+" fill="#FFFFFF" fill-rule="nonzero" points="298.583166 39 298.583166 35.3113208 302 35.3113208 302 32.5849057 298.583166 32.5849057 298.583166 29 295.426854 29 295.426854 32.5849057 292 32.5849057 292 35.3113208 295.426854 35.3113208 295.426854 39"></polygon>
+        </g>
+    </g>
+</svg>
