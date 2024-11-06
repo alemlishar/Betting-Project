@@ -1,5 +1,4 @@
-# Sisal NTB: Front-end Guidelines
-
+# Sisal Project
 
 Prerequisites:
 
